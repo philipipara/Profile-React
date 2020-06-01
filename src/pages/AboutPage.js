@@ -12,7 +12,8 @@ function AboutPage(props) {
             <Content>
               <p>
               
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euismod, velit sed volutpat dapibus, turpis nisl facilisis lectus, ac aliquet ipsum est sit amet ipsum. Quisque suscipit quam ac arcu auctor, rutrum scelerisque leo egestas. Nulla vel est quis nisi laoreet feugiat. Sed vitae auctor ex. Fusce id interdum neque, pulvinar cursus magna. Suspendisse congue tortor a turpis laoreet, et lacinia arcu lacinia. In hac habitasse platea dictumst. Nam sed ligula sit amet turpis congue malesuada. Nulla facilisi. Aenean lacus ante, ullamcorper eu lacinia et, pharetra vitae turpis. Maecenas at eleifend erat. Nam nec ultricies dui. Morbi posuere mattis varius. In ac purus sem. Praesent venenatis tortor vel congue tempus.
+              When I have to describe myself the first thing that comes to mind is avid sports fan. Most of my time is dedicated to sports whether it is watching, playing, talking about it, reading, or playing sport video games.
+               Other than that I have a passion for coding. One of my favorite parts of coding is to see how many ways the same function can be wrote.  I find coding very rewarding, especially when you struggle to implement some code and finally get it to work it's like a small celebration of scoring a goal.
 
               </p>
 
